@@ -13,8 +13,8 @@ We measure the fraction of matched nodes (before and after transitive closure) a
 | Model | Parameters | $m$ range |
 |---|---|---|
 | **Erdos-Renyi** | $n=10^4$, $p=0.003$, $s=0.8$, $k=13$ | 2 - 14 |
-| **Stochastic Block Model** | $n=10^4$, 5 balanced communities, $p=0.04$, $q=0.01$, $s=0.25$, $k=14$ | 2 – 14 |
-| **Random Geometric Graph** | $n=10^4$, $r=0.2$, $p=0.15$, $s=0.4$, $k=14$ | 2–14 |
+| **Stochastic Block Model** | $n=10^4$, 5 balanced communities, $p=0.04$, $q=0.01$, $s=0.36$, $k=14$ | 2 – 14 |
+| **Random Geometric Graph** | $n=10^4$, $r=0.2$, $p=0.15$, $s=0.4$, $k=14$ | 2 - 14 |
 
 
 
